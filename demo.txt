@@ -4,3 +4,7 @@ hola
 heya
 gulugulu
 bonjour
+
+adios
+tata
+byebye
