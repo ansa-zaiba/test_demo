@@ -1,5 +1,4 @@
 Hello Git !
-commit without adding
 hola
 heya
 gulugulu
@@ -8,3 +7,4 @@ bonjour
 adios
 tata
 byebye
+hola
